@@ -4,22 +4,40 @@
   "slug": "subnautica",
   "genre": "Adventure",
   "iframeUrl": "/game/index.html",
-
   "seo": {
     "title": "Subnautica – Free Underwater Adventure Game Online",
     "description": "Play Subnautica free in your browser — explore a vast alien ocean, gather resources, and survive. A deep underwater adventure game with no download needed.",
-    "keywords": ["Subnautica online", "Subnautica free browser", "underwater adventure game free", "survival exploration game online", "play Subnautica no download", "ocean adventure browser game", "free survival game online"]
+    "keywords": [
+      "Subnautica online",
+      "Subnautica free browser",
+      "underwater adventure game free",
+      "survival exploration game online",
+      "play Subnautica no download",
+      "ocean adventure browser game",
+      "free survival game online"
+    ]
   },
-
   "homepage": {
     "heroHeadline": "Subnautica — Free Underwater Adventure Game Online",
     "heroSubtitle": "Dive into an alien ocean, gather resources, and build your way to survival. Play the legendary underwater adventure free in your browser.",
     "lede": "Subnautica is a free browser adventure game set on an ocean planet far from Earth. Gather resources from the seabed, craft tools and habitats, and unravel the mystery of the world around you — all without a download or account.",
     "stats": [
-      { "value": "20+", "label": "Distinct Biomes" },
-      { "value": "300+", "label": "Craftable Items" },
-      { "value": "0",    "label": "Downloads Needed" },
-      { "value": "100%", "label": "Free Forever" }
+      {
+        "value": "20+",
+        "label": "Distinct Biomes"
+      },
+      {
+        "value": "300+",
+        "label": "Craftable Items"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Subnautica?",
@@ -32,81 +50,229 @@
       "subheading": "Survive, explore, and uncover the secrets of an alien ocean — one dive at a time."
     },
     "steps": [
-      { "icon": "folder",       "title": "Escape Your Lifepod", "desc": "The game begins in your emergency lifepod. Check your PDA for the initial distress signals and survival instructions. Drink the starting supplies, then enter the water. The shallow reef around your pod is safe and resource-rich." },
-      { "icon": "eye",          "title": "Gather and Craft", "desc": "Collect Titanium, Quartz, and Copper from the seabed. Open your fabricator in the lifepod to craft a Survival Knife, Oxygen Tank, and Scanner. The Scanner lets you analyse fragments to unlock vehicle and habitat blueprints." },
-      { "icon": "refresh",      "title": "Explore the Biomes", "desc": "Swim outward from the Safe Shallows into the Kelp Forest, Grassy Plateaus, and deeper zones. Each biome contains unique resources, creatures, and wreckage fragments. Manage your oxygen carefully — deeper dives require expanded tanks or vehicles." },
-      { "icon": "puzzle",       "title": "Build a Base", "desc": "Collect Titanium and Glass to build habitat modules on the ocean floor. A base gives you a safe air supply, a bed to save progress, and storage for resources. Build near resource nodes to reduce travel time." },
-      { "icon": "check-circle", "title": "Follow the Story", "desc": "Radio messages from survivors and abandoned lifepods guide you toward the game's central narrative. Scan Alien Artefacts and descend into the Primary Containment Facility to piece together what happened on 4546B — and how to leave." }
+      {
+        "icon": "folder",
+        "title": "Escape Your Lifepod",
+        "desc": "The game begins in your emergency lifepod. Check your PDA for the initial distress signals and survival instructions. Drink the starting supplies, then enter the water. The shallow reef around your pod is safe and resource-rich."
+      },
+      {
+        "icon": "eye",
+        "title": "Gather and Craft",
+        "desc": "Collect Titanium, Quartz, and Copper from the seabed. Open your fabricator in the lifepod to craft a Survival Knife, Oxygen Tank, and Scanner. The Scanner lets you analyse fragments to unlock vehicle and habitat blueprints."
+      },
+      {
+        "icon": "refresh",
+        "title": "Explore the Biomes",
+        "desc": "Swim outward from the Safe Shallows into the Kelp Forest, Grassy Plateaus, and deeper zones. Each biome contains unique resources, creatures, and wreckage fragments. Manage your oxygen carefully — deeper dives require expanded tanks or vehicles."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Build a Base",
+        "desc": "Collect Titanium and Glass to build habitat modules on the ocean floor. A base gives you a safe air supply, a bed to save progress, and storage for resources. Build near resource nodes to reduce travel time."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Follow the Story",
+        "desc": "Radio messages from survivors and abandoned lifepods guide you toward the game's central narrative. Scan Alien Artefacts and descend into the Primary Containment Facility to piece together what happened on 4546B — and how to leave."
+      }
     ],
     "categories": [
-      { "name": "Survivor",    "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Explorer",    "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Builder",     "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "Researcher",  "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Deep Diver",  "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Survivor",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Explorer",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Builder",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Researcher",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Deep Diver",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Open World from the Start", "desc": "Subnautica gives you full freedom to explore in any direction from the moment the lifepod hits the water. The world is not gated behind levels or unlock trees — your progression is determined by what you dare to explore." },
-      { "icon": "target", "title": "Deep Crafting System", "desc": "Over 300 items can be crafted from raw materials gathered in the ocean. Tools, vehicles, habitat modules, and equipment upgrade your ability to survive and reach previously inaccessible biomes." },
-      { "icon": "device", "title": "Plays in Any Browser", "desc": "Subnautica runs in your desktop or mobile browser without any download or installation. An account is not required — open the Play page and begin your first dive immediately." },
-      { "icon": "image",  "title": "Stunning Underwater Visuals", "desc": "The alien ocean is rendered in vivid colour, from the sun-lit Safe Shallows to the bioluminescent Grand Reef and the crushing darkness of the Inactive Lava Zone. Each biome has a distinct visual identity." },
-      { "icon": "shield", "title": "Safe Browser Play", "desc": "No ads targeting children and no in-app purchases. Subnautica's browser version is entirely free and does not require personal information to play." },
-      { "icon": "music",  "title": "Atmospheric Sound Design", "desc": "The underwater soundscape shifts with depth and biome — ambient drones in open water, eerie silence in cave systems, and creature calls that alert you to nearby predators before they reach you." }
+      {
+        "icon": "bolt",
+        "title": "Open World from the Start",
+        "desc": "Subnautica gives you full freedom to explore in any direction from the moment the lifepod hits the water. The world is not gated behind levels or unlock trees — your progression is determined by what you dare to explore."
+      },
+      {
+        "icon": "target",
+        "title": "Deep Crafting System",
+        "desc": "Over 300 items can be crafted from raw materials gathered in the ocean. Tools, vehicles, habitat modules, and equipment upgrade your ability to survive and reach previously inaccessible biomes."
+      },
+      {
+        "icon": "device",
+        "title": "Plays in Any Browser",
+        "desc": "Subnautica runs in your desktop or mobile browser without any download or installation. An account is not required — open the Play page and begin your first dive immediately."
+      },
+      {
+        "icon": "image",
+        "title": "Stunning Underwater Visuals",
+        "desc": "The alien ocean is rendered in vivid colour, from the sun-lit Safe Shallows to the bioluminescent Grand Reef and the crushing darkness of the Inactive Lava Zone. Each biome has a distinct visual identity."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe Browser Play",
+        "desc": "No ads targeting children and no in-app purchases. Subnautica's browser version is entirely free and does not require personal information to play."
+      },
+      {
+        "icon": "music",
+        "title": "Atmospheric Sound Design",
+        "desc": "The underwater soundscape shifts with depth and biome — ambient drones in open water, eerie silence in cave systems, and creature calls that alert you to nearby predators before they reach you."
+      }
     ],
     "faq": [
-      { "q": "What is Subnautica?", "a": "Subnautica is a first-person underwater survival adventure game set on an alien ocean planet. You gather resources, craft tools, build habitats, and explore a vast ocean while unravelling a science-fiction mystery." },
-      { "q": "Is Subnautica free?", "a": "Yes. Subnautica is free to play in the browser with no payment, subscription, or in-app purchases required." },
-      { "q": "Does Subnautica work on mobile?", "a": "Subnautica runs in modern mobile browsers. Some complex controls may require adjustment on smaller screens, but the core experience is accessible without any additional software." },
-      { "q": "How many levels are there?", "a": "Subnautica is an open-world game rather than a level-based one. The world consists of 20+ distinct biomes at varying depths, each requiring different equipment and preparation to explore safely." },
-      { "q": "Is Subnautica safe for kids?", "a": "Subnautica contains some tense creature encounters and mild horror elements related to deep ocean exploration. There is no blood or graphic violence. The game is generally suitable for players aged 12 and above — parental review is recommended for younger children." },
-      { "q": "Do I need an account?", "a": "No account is required to play. Open the game in your browser and begin immediately." }
+      {
+        "q": "What is Subnautica?",
+        "a": "Subnautica is a first-person underwater survival adventure game set on an alien ocean planet. You gather resources, craft tools, build habitats, and explore a vast ocean while unravelling a science-fiction mystery."
+      },
+      {
+        "q": "Is Subnautica free?",
+        "a": "Yes. Subnautica is free to play in the browser with no payment, subscription, or in-app purchases required."
+      },
+      {
+        "q": "Does Subnautica work on mobile?",
+        "a": "Subnautica runs in modern mobile browsers. Some complex controls may require adjustment on smaller screens, but the core experience is accessible without any additional software."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Subnautica is an open-world game rather than a level-based one. The world consists of 20+ distinct biomes at varying depths, each requiring different equipment and preparation to explore safely."
+      },
+      {
+        "q": "Is Subnautica safe for kids?",
+        "a": "Subnautica contains some tense creature encounters and mild horror elements related to deep ocean exploration. There is no blood or graphic violence. The game is generally suitable for players aged 12 and above — parental review is recommended for younger children."
+      },
+      {
+        "q": "Do I need an account?",
+        "a": "No account is required to play. Open the game in your browser and begin immediately."
+      }
     ],
     "cta": {
       "headline": "Ready to Dive?",
       "subtext": "The alien ocean is waiting. No download, no account — open the Play page and enter the water."
     }
   },
-
   "playPage": {
     "howItWorksSubtitle": "Gather resources, craft tools, build a base, and explore deeper into an alien ocean.",
     "steps": [
-      { "title": "Start in the Safe Shallows", "desc": "Your lifepod lands in the Safe Shallows biome, the shallowest and most resource-rich zone in the game. Collect Titanium and Quartz from the seabed, craft basic tools in your lifepod's fabricator, and explore the surrounding reef before venturing into deeper water." },
-      { "title": "Expand Your Reach With Vehicles", "desc": "Craft a Seamoth submarine or a Prawn Suit to reach deeper biomes safely. Vehicles extend your dive time and crush depth, opening access to the Jellyshroom Caves, Blood Kelp Zone, and Lost River. Each vehicle can be upgraded with modules to improve speed, depth rating, and storage." },
-      { "title": "Follow the Radio Signals", "desc": "Your PDA receives radio transmissions from crashed Aurora sections and survivor lifepods. Following these signals leads you to new blueprints, story data, and the locations of key Alien Artefacts needed to complete the game's main narrative." }
+      {
+        "title": "Start in the Safe Shallows",
+        "desc": "Your lifepod lands in the Safe Shallows biome, the shallowest and most resource-rich zone in the game. Collect Titanium and Quartz from the seabed, craft basic tools in your lifepod's fabricator, and explore the surrounding reef before venturing into deeper water."
+      },
+      {
+        "title": "Expand Your Reach With Vehicles",
+        "desc": "Craft a Seamoth submarine or a Prawn Suit to reach deeper biomes safely. Vehicles extend your dive time and crush depth, opening access to the Jellyshroom Caves, Blood Kelp Zone, and Lost River. Each vehicle can be upgraded with modules to improve speed, depth rating, and storage."
+      },
+      {
+        "title": "Follow the Radio Signals",
+        "desc": "Your PDA receives radio transmissions from crashed Aurora sections and survivor lifepods. Following these signals leads you to new blueprints, story data, and the locations of key Alien Artefacts needed to complete the game's main narrative."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Subnautica really free?", "a": "Yes. The browser version of Subnautica is entirely free with no payment required. There are no in-app purchases or premium unlocks." },
-      { "q": "What devices can I play on?", "a": "Subnautica runs on desktop computers running Windows, Mac, or Linux in any modern browser. Mobile browsers are supported, though the experience is optimised for desktop play due to complex keyboard and mouse controls." },
-      { "q": "How does the game work?", "a": "You play as the sole survivor of a spacecraft crash on an ocean planet. You gather raw materials from the ocean floor, craft tools and equipment in a fabricator, build underwater habitats to extend your range, and explore progressively deeper and more dangerous biomes while following a science-fiction story told through PDA logs, radio signals, and Alien Artefacts." },
-      { "q": "How many levels are there?", "a": "Subnautica is an open-world game with 20+ biomes rather than discrete levels. Progression is driven by crafting capability and exploration depth rather than stage completion. The game has a defined ending that requires descending to approximately 1700 metres and engaging with the Alien story arc." },
-      { "q": "Can I play offline?", "a": "Subnautica in the browser requires an internet connection to load. Once running, the game operates locally in most cases, so brief connectivity drops during play should not interrupt your session." },
-      { "q": "Is my progress saved?", "a": "Progress is saved when you sleep in a base bed or at a save point. The browser version stores save data locally in your browser. Clearing browser data will delete your save, so avoid wiping browser storage while mid-playthrough." },
-      { "q": "Is Subnautica safe for children?", "a": "Subnautica contains tense creature encounters, dark deep-ocean environments, and mild horror atmosphere. There is no graphic violence or adult content. The game is broadly suitable for ages 12 and above. Parents of younger children should preview the game's deeper biomes, which include large aggressive creatures, before allowing unsupervised play." },
-      { "q": "Do I need to create an account?", "a": "No account is needed. The game loads directly in the browser with no registration or sign-in required." }
+      {
+        "q": "Is Subnautica really free?",
+        "a": "Yes. The browser version of Subnautica is entirely free with no payment required. There are no in-app purchases or premium unlocks."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Subnautica runs on desktop computers running Windows, Mac, or Linux in any modern browser. Mobile browsers are supported, though the experience is optimised for desktop play due to complex keyboard and mouse controls."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "You play as the sole survivor of a spacecraft crash on an ocean planet. You gather raw materials from the ocean floor, craft tools and equipment in a fabricator, build underwater habitats to extend your range, and explore progressively deeper and more dangerous biomes while following a science-fiction story told through PDA logs, radio signals, and Alien Artefacts."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Subnautica is an open-world game with 20+ biomes rather than discrete levels. Progression is driven by crafting capability and exploration depth rather than stage completion. The game has a defined ending that requires descending to approximately 1700 metres and engaging with the Alien story arc."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Subnautica in the browser requires an internet connection to load. Once running, the game operates locally in most cases, so brief connectivity drops during play should not interrupt your session."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is saved when you sleep in a base bed or at a save point. The browser version stores save data locally in your browser. Clearing browser data will delete your save, so avoid wiping browser storage while mid-playthrough."
+      },
+      {
+        "q": "Is Subnautica safe for children?",
+        "a": "Subnautica contains tense creature encounters, dark deep-ocean environments, and mild horror atmosphere. There is no graphic violence or adult content. The game is broadly suitable for ages 12 and above. Parents of younger children should preview the game's deeper biomes, which include large aggressive creatures, before allowing unsupervised play."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is needed. The game loads directly in the browser with no registration or sign-in required."
+      }
     ]
   },
-
   "howToPlayPage": {
     "intro": "Subnautica is an open-world underwater survival adventure game. You crash-land on an ocean planet with no map and no instructions. Survival demands gathering resources, crafting tools, and building underwater habitats. Understanding the ocean unfolds through exploration — the game rewards curiosity and punishes carelessness.",
     "steps": [
-      { "title": "Manage Your Basic Needs First", "desc": "Subnautica tracks food, water, oxygen, and health. Food and water degrade over time. Oxygen depletes with depth and swimming distance. In your first hour, craft a Filtration Machine in your base to produce salt-free drinking water, and collect Fish to cook with your Fabricator for food. Stabilising your survival needs gives you the freedom to explore without interruption." },
-      { "title": "Scan Everything You Find", "desc": "Your Scanner analyses fragments, plants, creatures, and alien technology to unlock blueprints and add data entries to your PDA. Many advanced tools and vehicles are assembled from fragments found scattered across different biomes. Systematic scanning — not just collecting resources — is what unlocks progress. Make a habit of scanning every object you have not scanned before." },
-      { "title": "Plan Your Dives by Depth", "desc": "The ocean in Subnautica is stratified by danger. The Safe Shallows to 200 metres are generally forgiving. From 200 to 500 metres, predators become more aggressive and resources more valuable. Below 500 metres, creature encounters are dangerous without vehicle protection. Descend in steps: build your oxygen capacity, craft the Seamoth, then the Prawn Suit, before attempting the deepest biomes." }
+      {
+        "title": "Manage Your Basic Needs First",
+        "desc": "Subnautica tracks food, water, oxygen, and health. Food and water degrade over time. Oxygen depletes with depth and swimming distance. In your first hour, craft a Filtration Machine in your base to produce salt-free drinking water, and collect Fish to cook with your Fabricator for food. Stabilising your survival needs gives you the freedom to explore without interruption."
+      },
+      {
+        "title": "Scan Everything You Find",
+        "desc": "Your Scanner analyses fragments, plants, creatures, and alien technology to unlock blueprints and add data entries to your PDA. Many advanced tools and vehicles are assembled from fragments found scattered across different biomes. Systematic scanning — not just collecting resources — is what unlocks progress. Make a habit of scanning every object you have not scanned before."
+      },
+      {
+        "title": "Plan Your Dives by Depth",
+        "desc": "The ocean in Subnautica is stratified by danger. The Safe Shallows to 200 metres are generally forgiving. From 200 to 500 metres, predators become more aggressive and resources more valuable. Below 500 metres, creature encounters are dangerous without vehicle protection. Descend in steps: build your oxygen capacity, craft the Seamoth, then the Prawn Suit, before attempting the deepest biomes."
+      }
     ],
-    "mechanic": { "title": "The Fabricator and Blueprint System", "desc": "The Fabricator is your primary crafting tool. It converts raw materials — Titanium, Quartz, Copper, Lithium, and others — into equipment, food, and building components. Blueprints for advanced items are unlocked by scanning fragments found in wreckage across the ocean. Some critical blueprints, like the Cyclops submarine, require multiple fragments from different locations. Planning which blueprints to hunt for next is a core part of the game's progression loop." },
+    "mechanic": {
+      "title": "The Fabricator and Blueprint System",
+      "desc": "The Fabricator is your primary crafting tool. It converts raw materials — Titanium, Quartz, Copper, Lithium, and others — into equipment, food, and building components. Blueprints for advanced items are unlocked by scanning fragments found in wreckage across the ocean. Some critical blueprints, like the Cyclops submarine, require multiple fragments from different locations. Planning which blueprints to hunt for next is a core part of the game's progression loop."
+    },
     "difficultyProgression": "Subnautica scales difficulty through the depth of the ocean. Shallow zones are peaceful. Mid-depth zones introduce predators that require evasion or counter-tools. Deep zones contain creatures that can destroy vehicles and kill a player quickly. The progression is not gated by levels — you can theoretically dive anywhere immediately — but lack of preparation will result in rapid death. The game teaches you its difficulty scale through consequences rather than explicit warnings.",
     "tips": [
-      { "title": "Build a Base Near Your Pod Early", "desc": "Your first habitat module should be placed close to your lifepod, near a titanium and quartz deposit. A base gives you a safe air supply, a bed for saving, and a fabricator upgrade path. Don't delay base-building — spending your first hour swimming back to the pod to breathe wastes time and resources." },
-      { "title": "Mark Important Locations with Beacons", "desc": "The ocean in Subnautica has no map by default. Craft Beacons from Copper and Titanium and place them at resource nodes, wreckage sites, and cave entrances you want to revisit. The Beacon list shows direction and distance from your current position, turning an otherwise disorienting environment into a navigable space." },
-      { "title": "Talk to Every NPC — Read Every Log", "desc": "Story information in Subnautica is delivered through PDA data entries, radio messages, and Alien Artefact text. Read everything as you collect it. The narrative gives you directional guidance encoded in environmental storytelling — previous survivors often describe exactly where they were when things went wrong, which tells you where to go and what to prepare for." },
-      { "title": "Craft a Rebreather Before Diving Deep", "desc": "Below 100 metres, oxygen consumption increases significantly without a Rebreather helmet upgrade. This single item dramatically extends your safe dive time in mid-depth biomes and is inexpensive to craft. Many new players try to push deeper without it and wonder why their oxygen depletes so quickly. Craft it before you need it." },
-      { "title": "Save Often Using Your Base Bed", "desc": "Subnautica has no auto-save feature. Progress is only preserved when you sleep in a habitat bed or use an explicit save point. A creature encounter or unexpected terrain trap can kill you without warning. Establish a save habit — return to base and sleep after every significant crafting achievement or exploration milestone." }
+      {
+        "title": "Build a Base Near Your Pod Early",
+        "desc": "Your first habitat module should be placed close to your lifepod, near a titanium and quartz deposit. A base gives you a safe air supply, a bed for saving, and a fabricator upgrade path. Don't delay base-building — spending your first hour swimming back to the pod to breathe wastes time and resources."
+      },
+      {
+        "title": "Mark Important Locations with Beacons",
+        "desc": "The ocean in Subnautica has no map by default. Craft Beacons from Copper and Titanium and place them at resource nodes, wreckage sites, and cave entrances you want to revisit. The Beacon list shows direction and distance from your current position, turning an otherwise disorienting environment into a navigable space."
+      },
+      {
+        "title": "Talk to Every NPC — Read Every Log",
+        "desc": "Story information in Subnautica is delivered through PDA data entries, radio messages, and Alien Artefact text. Read everything as you collect it. The narrative gives you directional guidance encoded in environmental storytelling — previous survivors often describe exactly where they were when things went wrong, which tells you where to go and what to prepare for."
+      },
+      {
+        "title": "Craft a Rebreather Before Diving Deep",
+        "desc": "Below 100 metres, oxygen consumption increases significantly without a Rebreather helmet upgrade. This single item dramatically extends your safe dive time in mid-depth biomes and is inexpensive to craft. Many new players try to push deeper without it and wonder why their oxygen depletes so quickly. Craft it before you need it."
+      },
+      {
+        "title": "Save Often Using Your Base Bed",
+        "desc": "Subnautica has no auto-save feature. Progress is only preserved when you sleep in a habitat bed or use an explicit save point. A creature encounter or unexpected terrain trap can kill you without warning. Establish a save habit — return to base and sleep after every significant crafting achievement or exploration milestone."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "Practical guides, survival tips, and background reading for Subnautica players at every level.",
@@ -121,10 +287,33 @@
         "date": "2026-01-01",
         "icon": "🗺️",
         "sections": [
-          { "heading": "What Is Subnautica?", "paragraphs": ["Subnautica is a first-person survival adventure game set entirely underwater on an alien ocean planet. Your spacecraft crashes at the start of the game, and you must gather resources, craft tools, build underwater habitats, and explore a vast and largely uncharted ocean while following a science-fiction narrative. The game is open-world — there are no level gates, no quest markers forcing you in a specific direction, and no explicit tutorial beyond a few early PDA notifications.", "The game's genre sits between survival game and adventure game. Survival mechanics — food, water, oxygen, health — run in the background and punish neglect, but the heart of the experience is exploration and discovery. The question driving most sessions is not 'how do I survive' but 'what is out there, and how do I reach it safely.'"] },
-          { "heading": "How to Open the Game", "paragraphs": ["Navigate to the Play page and the game loads directly in your browser. No download and no account are required. The game begins immediately after loading, inside your lifepod as it settles on the ocean surface. Read the initial PDA entry for basic orientation, then exit the lifepod into the water below.", "The controls are keyboard and mouse by default on desktop. WASD moves you, Space ascends in water, C descends, E interacts with objects. On mobile, touch controls replace these inputs. If you encounter a performance issue, try closing other browser tabs to free up memory — the game is resource-intensive by browser standards."] },
-          { "heading": "Your First Five Minutes", "paragraphs": ["Exit the lifepod and swim down into the Safe Shallows reef. Collect Limestone Outcrops from the seabed — these break open to reveal Copper or Titanium. Pick up Coral Tube Samples from the coral formations and collect Bladderfish by approaching slowly — they don't flee. Return to the lifepod with a handful of materials.", "Open the Fabricator inside the lifepod and craft a Survival Knife, an Oxygen Tank upgrade, and cook your Bladderfish for food. The expanded oxygen tank immediately extends your dive time. From here, your job is to explore outward from the pod — the Kelp Forest to the northeast and the Grassy Plateaus to the south are your next destinations."] },
-          { "heading": "Ready to Play?", "paragraphs": ["Subnautica does not explain itself fully, and that is intentional. The game expects you to discover most of its systems through play. Do not wait until you feel prepared — dive in, gather resources, and follow your curiosity. The ocean is large and mostly safe in the first hour. The dangers come later, and they come gradually enough that you have time to prepare if you pay attention to your surroundings."] }
+          {
+            "heading": "What Is Subnautica?",
+            "paragraphs": [
+              "Subnautica is a first-person survival adventure game set entirely underwater on an alien ocean planet. Your spacecraft crashes at the start of the game, and you must gather resources, craft tools, build underwater habitats, and explore a vast and largely uncharted ocean while following a science-fiction narrative. The game is open-world — there are no level gates, no quest markers forcing you in a specific direction, and no explicit tutorial beyond a few early PDA notifications.",
+              "The game's genre sits between survival game and adventure game. Survival mechanics — food, water, oxygen, health — run in the background and punish neglect, but the heart of the experience is exploration and discovery. The question driving most sessions is not 'how do I survive' but 'what is out there, and how do I reach it safely.'"
+            ]
+          },
+          {
+            "heading": "How to Open the Game",
+            "paragraphs": [
+              "Navigate to the Play page and the game loads directly in your browser. No download and no account are required. The game begins immediately after loading, inside your lifepod as it settles on the ocean surface. Read the initial PDA entry for basic orientation, then exit the lifepod into the water below.",
+              "The controls are keyboard and mouse by default on desktop. WASD moves you, Space ascends in water, C descends, E interacts with objects. On mobile, touch controls replace these inputs. If you encounter a performance issue, try closing other browser tabs to free up memory — the game is resource-intensive by browser standards."
+            ]
+          },
+          {
+            "heading": "Your First Five Minutes",
+            "paragraphs": [
+              "Exit the lifepod and swim down into the Safe Shallows reef. Collect Limestone Outcrops from the seabed — these break open to reveal Copper or Titanium. Pick up Coral Tube Samples from the coral formations and collect Bladderfish by approaching slowly — they don't flee. Return to the lifepod with a handful of materials.",
+              "Open the Fabricator inside the lifepod and craft a Survival Knife, an Oxygen Tank upgrade, and cook your Bladderfish for food. The expanded oxygen tank immediately extends your dive time. From here, your job is to explore outward from the pod — the Kelp Forest to the northeast and the Grassy Plateaus to the south are your next destinations."
+            ]
+          },
+          {
+            "heading": "Ready to Play?",
+            "paragraphs": [
+              "Subnautica does not explain itself fully, and that is intentional. The game expects you to discover most of its systems through play. Do not wait until you feel prepared — dive in, gather resources, and follow your curiosity. The ocean is large and mostly safe in the first hour. The dangers come later, and they come gradually enough that you have time to prepare if you pay attention to your surroundings."
+            ]
+          }
         ]
       },
       {
@@ -136,10 +325,34 @@
         "date": "2026-01-05",
         "icon": "💡",
         "sections": [
-          { "heading": "Master the Fundamentals", "paragraphs": ["Your three most important early resources are Titanium, Quartz, and Copper. Titanium comes from Limestone Outcrops and builds almost everything. Quartz comes from the seabed and is used for Glass, which you need for habitat viewports and scanner upgrades. Copper comes from Limestone Outcrops and is used in most electronic components. Filling your inventory with these three materials before returning to the lifepod keeps your crafting queue moving.", "Learn which biomes supply which resources. Safe Shallows has abundant Titanium, Copper, and basic plant life. Kelp Forest provides Gold and Silver. Grassy Plateaus supply Magnetite and Ruby deposits. Knowing where to find specific materials before you need them prevents frustrating search sessions."] },
-          { "heading": "Think Before You Act", "paragraphs": ["Before swimming into an unfamiliar biome, hover at the boundary and listen. Subnautica's sound design gives you advance warning of dangerous creatures — distinctive ambient tracks signal which predators inhabit an area before you see them. Entering the Blood Kelp Zone with its ominous drone and failing to recognise the sound as a danger signal is a common early mistake.", "Check your oxygen remaining before diving toward anything interesting. The instinct to follow a resource deposit or creature deeper than your current oxygen supports leads to unnecessary deaths. The resource will still be there on your next dive. The habit of checking oxygen before descending saves more lives than any piece of equipment."] },
-          { "heading": "Recognise Patterns Early", "paragraphs": ["The game's biomes transition gradually rather than sharply. When the water colour changes, the terrain shifts, and the ambient sound changes, you are entering a new biome. New biomes almost always contain new resources and new hazards. Treat a biome transition as a signal to stop, scan your surroundings, and assess what's different before proceeding.", "Predators in Subnautica follow patterns. Stalkers circle their territory and collect Metal Salvage. Sandsharks stay near the sandy bottom and ambush from below. Bonesharks patrol fixed routes between rock formations. Recognising these patterns lets you predict creature movement and time your crossings rather than swimming blindly into attacks."] },
-          { "heading": "Advanced Techniques", "paragraphs": ["Build a Scanner Room in your base as soon as possible. The Scanner Room scans the surrounding ocean for specific resources and displays them on your HUD as icons. Set it to scan for Lithium, Magnetite, or Nickel Ore — all critical mid-game materials — and it will mark every deposit within range, eliminating the need to search manually.", "The Cyclops submarine is the most powerful vehicle in the game, but it requires three separate blueprints found in different wreckage sites. Prioritise scanning these wreckage sites early, before you need the Cyclops, so the blueprint is ready when your resources allow construction. Mid-game players often find themselves ready to build but still missing one blueprint fragment due to not scanning enough wreckage."] }
+          {
+            "heading": "Master the Fundamentals",
+            "paragraphs": [
+              "Your three most important early resources are Titanium, Quartz, and Copper. Titanium comes from Limestone Outcrops and builds almost everything. Quartz comes from the seabed and is used for Glass, which you need for habitat viewports and scanner upgrades. Copper comes from Limestone Outcrops and is used in most electronic components. Filling your inventory with these three materials before returning to the lifepod keeps your crafting queue moving.",
+              "Learn which biomes supply which resources. Safe Shallows has abundant Titanium, Copper, and basic plant life. Kelp Forest provides Gold and Silver. Grassy Plateaus supply Magnetite and Ruby deposits. Knowing where to find specific materials before you need them prevents frustrating search sessions."
+            ]
+          },
+          {
+            "heading": "Think Before You Act",
+            "paragraphs": [
+              "Before swimming into an unfamiliar biome, hover at the boundary and listen. Subnautica's sound design gives you advance warning of dangerous creatures — distinctive ambient tracks signal which predators inhabit an area before you see them. Entering the Blood Kelp Zone with its ominous drone and failing to recognise the sound as a danger signal is a common early mistake.",
+              "Check your oxygen remaining before diving toward anything interesting. The instinct to follow a resource deposit or creature deeper than your current oxygen supports leads to unnecessary deaths. The resource will still be there on your next dive. The habit of checking oxygen before descending saves more lives than any piece of equipment."
+            ]
+          },
+          {
+            "heading": "Recognise Patterns Early",
+            "paragraphs": [
+              "The game's biomes transition gradually rather than sharply. When the water colour changes, the terrain shifts, and the ambient sound changes, you are entering a new biome. New biomes almost always contain new resources and new hazards. Treat a biome transition as a signal to stop, scan your surroundings, and assess what's different before proceeding.",
+              "Predators in Subnautica follow patterns. Stalkers circle their territory and collect Metal Salvage. Sandsharks stay near the sandy bottom and ambush from below. Bonesharks patrol fixed routes between rock formations. Recognising these patterns lets you predict creature movement and time your crossings rather than swimming blindly into attacks."
+            ]
+          },
+          {
+            "heading": "Advanced Techniques",
+            "paragraphs": [
+              "Build a Scanner Room in your base as soon as possible. The Scanner Room scans the surrounding ocean for specific resources and displays them on your HUD as icons. Set it to scan for Lithium, Magnetite, or Nickel Ore — all critical mid-game materials — and it will mark every deposit within range, eliminating the need to search manually.",
+              "The Cyclops submarine is the most powerful vehicle in the game, but it requires three separate blueprints found in different wreckage sites. Prioritise scanning these wreckage sites early, before you need the Cyclops, so the blueprint is ready when your resources allow construction. Mid-game players often find themselves ready to build but still missing one blueprint fragment due to not scanning enough wreckage."
+            ]
+          }
         ]
       },
       {
@@ -151,10 +364,34 @@
         "date": "2026-01-10",
         "icon": "🧠",
         "sections": [
-          { "heading": "Games and the Brain", "paragraphs": ["Open-world exploration games activate the brain's spatial navigation systems. Research using neuroimaging has shown that players of three-dimensional exploration games develop stronger hippocampal function — the brain region responsible for building and storing mental maps. In Subnautica, learning the layout of 20+ biomes without an in-game map is a substantial spatial reasoning exercise.", "Survival games additionally develop executive function: the ability to plan ahead, prioritise competing needs, and allocate limited resources efficiently. Managing food, water, oxygen, and crafting materials simultaneously in Subnautica is a practical application of multi-variable planning that engages the prefrontal cortex continuously throughout play."] },
-          { "heading": "Problem-Solving", "paragraphs": ["Subnautica structures its progression as a series of interlocking resource and crafting problems. Reaching a deep biome requires a vehicle. The vehicle requires blueprints. The blueprints require scanning specific fragments. Scanning requires surviving in mid-depth zones. Mid-depth zones require equipment. Each step unlocks the next in a chain that teaches players to break large goals into manageable intermediate objectives.", "This goal decomposition skill — identifying what you need, what you need to get what you need, and in what order to pursue the chain — is one of the most transferable cognitive skills games can develop. Players frequently describe Subnautica as making them think more systematically about real-world planning problems after extended engagement with the game."] },
-          { "heading": "Stress Relief", "paragraphs": ["The oceanic setting of Subnautica produces measurable relaxation effects in most players. Research on blue space — the psychological impact of water environments — shows that proximity to, or simulation of, open water reduces cortisol levels and lowers perceived stress. The ambient soundtrack and visual design of Subnautica's shallower biomes are specifically calibrated to produce this calming effect.", "The game also provides a form of constructive escapism — the deep ocean is unfamiliar enough to fully occupy attention, blocking intrusive thoughts, while the survival loop provides a steady stream of small achievable goals. This combination of focused attention and achievable progress is consistent with the psychological profile of effective stress-relief activities."] },
-          { "heading": "Safe Screen Time", "paragraphs": ["Subnautica's browser version contains no ads targeting children and no in-app purchases. The game does not include social features, leaderboards, or time-limited events designed to create compulsive engagement. Sessions are naturally bounded by in-game save points and the physical challenge of the survival loop.", "The game is most beneficial for players aged 14 and above due to its complexity and some tense creature encounter content. For this age group, Subnautica provides a cognitively rich and narratively satisfying alternative to passive media consumption, with sessions that tend to produce genuine accomplishment — base built, biome explored, blueprint unlocked — rather than aimless time spent."] }
+          {
+            "heading": "Games and the Brain",
+            "paragraphs": [
+              "Open-world exploration games activate the brain's spatial navigation systems. Research using neuroimaging has shown that players of three-dimensional exploration games develop stronger hippocampal function — the brain region responsible for building and storing mental maps. In Subnautica, learning the layout of 20+ biomes without an in-game map is a substantial spatial reasoning exercise.",
+              "Survival games additionally develop executive function: the ability to plan ahead, prioritise competing needs, and allocate limited resources efficiently. Managing food, water, oxygen, and crafting materials simultaneously in Subnautica is a practical application of multi-variable planning that engages the prefrontal cortex continuously throughout play."
+            ]
+          },
+          {
+            "heading": "Problem-Solving",
+            "paragraphs": [
+              "Subnautica structures its progression as a series of interlocking resource and crafting problems. Reaching a deep biome requires a vehicle. The vehicle requires blueprints. The blueprints require scanning specific fragments. Scanning requires surviving in mid-depth zones. Mid-depth zones require equipment. Each step unlocks the next in a chain that teaches players to break large goals into manageable intermediate objectives.",
+              "This goal decomposition skill — identifying what you need, what you need to get what you need, and in what order to pursue the chain — is one of the most transferable cognitive skills games can develop. Players frequently describe Subnautica as making them think more systematically about real-world planning problems after extended engagement with the game."
+            ]
+          },
+          {
+            "heading": "Stress Relief",
+            "paragraphs": [
+              "The oceanic setting of Subnautica produces measurable relaxation effects in most players. Research on blue space — the psychological impact of water environments — shows that proximity to, or simulation of, open water reduces cortisol levels and lowers perceived stress. The ambient soundtrack and visual design of Subnautica's shallower biomes are specifically calibrated to produce this calming effect.",
+              "The game also provides a form of constructive escapism — the deep ocean is unfamiliar enough to fully occupy attention, blocking intrusive thoughts, while the survival loop provides a steady stream of small achievable goals. This combination of focused attention and achievable progress is consistent with the psychological profile of effective stress-relief activities."
+            ]
+          },
+          {
+            "heading": "Safe Screen Time",
+            "paragraphs": [
+              "Subnautica's browser version contains no ads targeting children and no in-app purchases. The game does not include social features, leaderboards, or time-limited events designed to create compulsive engagement. Sessions are naturally bounded by in-game save points and the physical challenge of the survival loop.",
+              "The game is most beneficial for players aged 14 and above due to its complexity and some tense creature encounter content. For this age group, Subnautica provides a cognitively rich and narratively satisfying alternative to passive media consumption, with sessions that tend to produce genuine accomplishment — base built, biome explored, blueprint unlocked — rather than aimless time spent."
+            ]
+          }
         ]
       },
       {
@@ -166,10 +403,34 @@
         "date": "2026-01-15",
         "icon": "📈",
         "sections": [
-          { "heading": "Focus on Consistency", "paragraphs": ["The players who progress fastest in Subnautica are not the ones who dive deepest earliest. They are the ones who maintain consistent survival status — food above 50%, water above 50%, oxygen never critically low — while making steady progress on crafting goals. Dying repeatedly because basic needs were neglected resets progress and wastes time. Treat survival maintenance as the foundation on which exploration sits.", "Establish a daily base routine: start each session by checking your base power supply, topping up food and water from your Filtration Machine and farm, and reviewing what you planned to craft next. This two-minute startup ritual keeps you organised and prevents the frustrated 'what was I doing' feeling that breaks momentum."] },
-          { "heading": "Analyse Your Mistakes", "paragraphs": ["Most deaths in Subnautica are avoidable in retrospect. When you die, identify the root cause — was it oxygen management, creature avoidance, terrain navigation, or entering a biome without adequate equipment? Each cause has a specific solution. Oxygen deaths require expanded tanks or a Rebreather. Creature deaths require learning predator behaviour patterns or carrying a Propulsion Cannon for deterrence. Terrain deaths require better Beacon placement and lighting.", "Repeated deaths to the same creature type suggest you have not learned that creature's movement pattern. Observe it from a safe distance before engaging its territory. Most aggressive creatures have predictable patrol routes or aggression triggers that you can navigate around once you understand them."] },
-          { "heading": "Build a Strategy", "paragraphs": ["Plan your progression in tiers. Tier one: Safe Shallows survival setup, basic tools, habitat near the pod. Tier two: Seamoth vehicle, Grassy Plateaus exploration, Scanner Room, Rebreather. Tier three: Prawn Suit, Cyclops fragments, Lost River access. Tier four: Lava Zone preparation, story completion. Having a clear tier structure prevents the common trap of drifting in the mid-game without direction.", "Prioritise the Aurora exploration early — after the radiation dissipates around hour three or four. The Aurora contains critical blueprints including the Prawn Suit fragments and story data entries. Many players reach the late game without having entered the Aurora and find themselves missing key blueprints. Schedule the Aurora visit at the end of Tier two."] },
-          { "heading": "Practice Regularly", "paragraphs": ["Subnautica rewards accumulated knowledge of the ocean's geography and creature behaviour. Players who spend regular time in the game develop an internal map of biome locations and resource nodes that makes each subsequent session significantly more efficient. The disorientation of the early game dissolves after ten to fifteen hours — the ocean becomes familiar rather than threatening.", "Try replaying the game on a new save with different goals — a base-building focused run, a story-speed run, a Freedom mode run without food and water mechanics. Different constraints develop different skills. A player who has completed several different style runs has a broader toolkit for solving problems in any given session."] }
+          {
+            "heading": "Focus on Consistency",
+            "paragraphs": [
+              "The players who progress fastest in Subnautica are not the ones who dive deepest earliest. They are the ones who maintain consistent survival status — food above 50%, water above 50%, oxygen never critically low — while making steady progress on crafting goals. Dying repeatedly because basic needs were neglected resets progress and wastes time. Treat survival maintenance as the foundation on which exploration sits.",
+              "Establish a daily base routine: start each session by checking your base power supply, topping up food and water from your Filtration Machine and farm, and reviewing what you planned to craft next. This two-minute startup ritual keeps you organised and prevents the frustrated 'what was I doing' feeling that breaks momentum."
+            ]
+          },
+          {
+            "heading": "Analyse Your Mistakes",
+            "paragraphs": [
+              "Most deaths in Subnautica are avoidable in retrospect. When you die, identify the root cause — was it oxygen management, creature avoidance, terrain navigation, or entering a biome without adequate equipment? Each cause has a specific solution. Oxygen deaths require expanded tanks or a Rebreather. Creature deaths require learning predator behaviour patterns or carrying a Propulsion Cannon for deterrence. Terrain deaths require better Beacon placement and lighting.",
+              "Repeated deaths to the same creature type suggest you have not learned that creature's movement pattern. Observe it from a safe distance before engaging its territory. Most aggressive creatures have predictable patrol routes or aggression triggers that you can navigate around once you understand them."
+            ]
+          },
+          {
+            "heading": "Build a Strategy",
+            "paragraphs": [
+              "Plan your progression in tiers. Tier one: Safe Shallows survival setup, basic tools, habitat near the pod. Tier two: Seamoth vehicle, Grassy Plateaus exploration, Scanner Room, Rebreather. Tier three: Prawn Suit, Cyclops fragments, Lost River access. Tier four: Lava Zone preparation, story completion. Having a clear tier structure prevents the common trap of drifting in the mid-game without direction.",
+              "Prioritise the Aurora exploration early — after the radiation dissipates around hour three or four. The Aurora contains critical blueprints including the Prawn Suit fragments and story data entries. Many players reach the late game without having entered the Aurora and find themselves missing key blueprints. Schedule the Aurora visit at the end of Tier two."
+            ]
+          },
+          {
+            "heading": "Practice Regularly",
+            "paragraphs": [
+              "Subnautica rewards accumulated knowledge of the ocean's geography and creature behaviour. Players who spend regular time in the game develop an internal map of biome locations and resource nodes that makes each subsequent session significantly more efficient. The disorientation of the early game dissolves after ten to fifteen hours — the ocean becomes familiar rather than threatening.",
+              "Try replaying the game on a new save with different goals — a base-building focused run, a story-speed run, a Freedom mode run without food and water mechanics. Different constraints develop different skills. A player who has completed several different style runs has a broader toolkit for solving problems in any given session."
+            ]
+          }
         ]
       },
       {
@@ -181,10 +442,272 @@
         "date": "2026-01-20",
         "icon": "👨‍👩‍👧",
         "sections": [
-          { "heading": "Is Subnautica Safe for Children?", "paragraphs": ["Subnautica is rated PEGI 7 in Europe and E10+ by the ESRB in North America. The game contains no blood, no graphic violence, and no adult content. However, some biomes — particularly the Void, the Lost River, and the Lava Zones — have a genuinely tense horror-adjacent atmosphere driven by large, aggressive creatures and dark environments. Some children find the leviathan-class creatures frightening.", "There are no ads targeting children and no in-app purchases. The browser version is entirely free and requires no account or personal information. Parental review of the mid-game and late-game biomes is recommended before allowing younger children — under 10 — to play unsupervised, given the atmospheric intensity of the deeper ocean zones."] },
-          { "heading": "What Will My Child Learn?", "paragraphs": ["Subnautica is one of the most educationally rich games in its genre. It teaches resource management and planning through its crafting system, spatial reasoning through open-world navigation without a map, and narrative inference through its environmental storytelling. Players who complete the game have practiced systematic goal decomposition across dozens of hours — breaking a large objective into a sequence of achievable intermediate steps.", "The game also introduces real scientific concepts in a narrative context. Subnautica references marine biology, xenobiology, infection mechanics, and deep-sea physics in ways that frequently prompt curiosity-driven research. Many players report looking up real ocean creatures and deep-sea environments after encountering fictional analogues in the game."] },
-          { "heading": "Tips for Healthy Screen Time", "paragraphs": ["Subnautica sessions are naturally bounded by in-game save points and the structure of the survival loop. Setting a session limit of 'one major goal completed' — for example, craft the Seamoth, or explore the Kelp Forest — gives children a clear and fair stopping point that aligns with the game's own progress markers.", "The game does not include notifications, daily rewards, or social features designed to extend sessions artificially. It is a single-player experience with no social pressure component. This makes it significantly lower risk for compulsive engagement than multiplayer or social mobile games designed to maximise time spent."] },
-          { "heading": "COPPA Compliance", "paragraphs": ["Subnautica's browser version collects no personal information and requires no account. Play is anonymous and local — no data is transmitted to external servers during gameplay. There are no social features, leaderboards, or player-to-player contact mechanisms. The game is COPPA-safe in its design and technically presents no data privacy concerns.", "Standard internet supervision applies as with any browser-based game. The game itself is safe, but parents should be aware that searching for Subnautica guides and walkthroughs online may expose younger children to third-party sites with less controlled content. Providing a trusted guide source reduces this risk for younger players."] }
+          {
+            "heading": "Is Subnautica Safe for Children?",
+            "paragraphs": [
+              "Subnautica is rated PEGI 7 in Europe and E10+ by the ESRB in North America. The game contains no blood, no graphic violence, and no adult content. However, some biomes — particularly the Void, the Lost River, and the Lava Zones — have a genuinely tense horror-adjacent atmosphere driven by large, aggressive creatures and dark environments. Some children find the leviathan-class creatures frightening.",
+              "There are no ads targeting children and no in-app purchases. The browser version is entirely free and requires no account or personal information. Parental review of the mid-game and late-game biomes is recommended before allowing younger children — under 10 — to play unsupervised, given the atmospheric intensity of the deeper ocean zones."
+            ]
+          },
+          {
+            "heading": "What Will My Child Learn?",
+            "paragraphs": [
+              "Subnautica is one of the most educationally rich games in its genre. It teaches resource management and planning through its crafting system, spatial reasoning through open-world navigation without a map, and narrative inference through its environmental storytelling. Players who complete the game have practiced systematic goal decomposition across dozens of hours — breaking a large objective into a sequence of achievable intermediate steps.",
+              "The game also introduces real scientific concepts in a narrative context. Subnautica references marine biology, xenobiology, infection mechanics, and deep-sea physics in ways that frequently prompt curiosity-driven research. Many players report looking up real ocean creatures and deep-sea environments after encountering fictional analogues in the game."
+            ]
+          },
+          {
+            "heading": "Tips for Healthy Screen Time",
+            "paragraphs": [
+              "Subnautica sessions are naturally bounded by in-game save points and the structure of the survival loop. Setting a session limit of 'one major goal completed' — for example, craft the Seamoth, or explore the Kelp Forest — gives children a clear and fair stopping point that aligns with the game's own progress markers.",
+              "The game does not include notifications, daily rewards, or social features designed to extend sessions artificially. It is a single-player experience with no social pressure component. This makes it significantly lower risk for compulsive engagement than multiplayer or social mobile games designed to maximise time spent."
+            ]
+          },
+          {
+            "heading": "COPPA Compliance",
+            "paragraphs": [
+              "Subnautica's browser version collects no personal information and requires no account. Play is anonymous and local — no data is transmitted to external servers during gameplay. There are no social features, leaderboards, or player-to-player contact mechanisms. The game is COPPA-safe in its design and technically presents no data privacy concerns.",
+              "Standard internet supervision applies as with any browser-based game. The game itself is safe, but parents should be aware that searching for Subnautica guides and walkthroughs online may expose younger children to third-party sites with less controlled content. Providing a trusted guide source reduces this risk for younger players."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "ultimate-survival-guide",
+        "title": "Subnautica Survival Guide: How to Survive Your First Hours on Planet 4546B",
+        "excerpt": "Crashed on an alien ocean planet with nothing but a damaged lifepod? This complete survival guide walks you through your first hours in Subnautica — from managing oxygen and hunger to building your first habitat and crafting the tools that keep you alive.",
+        "category": "Guide",
+        "readTime": "10 min read",
+        "date": "2026-04-30",
+        "icon": "🌊",
+        "sections": [
+          {
+            "heading": "The First Five Minutes: What to Do Immediately After Crashing",
+            "paragraphs": [
+              "The moment Subnautica begins, you are treading water in the middle of an alien ocean. Your Aurora has broken apart behind you, fires burn on the surface, and the only thing keeping you alive is your emergency lifepod. That lifepod has a fabricator, a radio, and a medical kit dispenser — but none of those matter in the first thirty seconds. What matters is that you are breathing, and you have roughly forty-five seconds of oxygen before that changes.",
+              "Your first action should be to open the fabricator menu and scan it. This activates the tutorial pop-up system that teaches you how crafting works without wasting your oxygen. Then step outside the lifepod and immediately orient yourself by looking at the horizon. You are in the Safe Shallows — a shallow, well-lit biome that surrounds the lifepod starting zone. The water is warm, the creatures are mostly harmless, and the seafloor is close enough that you can see it without diving more than ten metres.",
+              "Do not panic and dive randomly. Stay near the surface on your first few dives and map the immediate area. Look for glowing plants and dense coral formations — these typically indicate clusters of the basic resources you will need within the first twenty minutes. Titanium fragments and quartz deposits are visible from the surface at depths of five to eight metres. Grabbing even a handful of each during your first three or four brief dives gives you everything needed to craft your first essential tool: the Scanner.",
+              "Ignore the SOS signal and the radio in the opening minutes. Those lead to story-critical locations and creatures that are far beyond your current survival capacity. Your only objective in the first five minutes is to gather resources without drowning, and to get a mental map of the twelve metres of seafloor around your lifepod."
+            ]
+          },
+          {
+            "heading": "Managing Your Three Survival Meters: Oxygen, Food, and Water",
+            "paragraphs": [
+              "Subnautica runs three survival meters simultaneously: oxygen, hunger, and thirst. Ignoring any one of them long enough will kill you, but they deplete at very different rates and demand very different responses. Oxygen empties in under a minute when you are fully submerged at shallow depth. Hunger and thirst deplete slowly enough that new players often forget about them entirely — until they are suddenly at critical levels with no food in their inventory.",
+              "Oxygen management is the skill you will practise most in the early game. Every time you dive, you have a fixed window before you need to surface. At shallow depths of five to fifteen metres, that window is around forty-five to fifty seconds without any equipment upgrades. The key habit is to surface before the warning sounds. The audible oxygen alert triggers at around fifteen seconds remaining — that is enough time to ascend from shallow water, but not from anything deeper. Train yourself to surface when the meter hits roughly twenty-five percent, not when the alarm fires.",
+              "Food and water are solved through different methods. Water is easiest: coral tubes found throughout the Safe Shallows can be picked up and processed in your inventory to produce filtered water. One coral tube processed gives you one water bottle, which restores a significant portion of your thirst meter. Food requires either harvesting fish directly or finding edible plants on the seafloor. The Peeper — the large-eyed yellow fish swimming near coral formations — is the most reliable early food source. Grab one with your bare hands and eat it immediately, or store it in your inventory and fabricate it into cooked fish when you return to your lifepod.",
+              "The third emergency resource is the medical kit dispenser inside your lifepod. It recharges over time and provides a medical kit that restores health — not food or water, but raw health. Do not use these casually. Save them for situations where you have taken damage from a creature or from pressure at unsafe depths. Health depletion from hunger and thirst is slow; health depletion from a Stalker bite is immediate."
+            ]
+          },
+          {
+            "heading": "Essential Resources and Where to Find Them in the Safe Shallows",
+            "paragraphs": [
+              "The Safe Shallows hold almost everything you need for the first hour of the game, provided you know what to look for. Titanium is the foundation of nearly every early-game recipe: it crafts the Scanner, the Seaglide, your first habitat pieces, and most of the tools you will use for the first three hours. Titanium drops from limestone outcrops — rounded, pale-coloured rock formations that sit on the seafloor and glow faintly in darker areas. Smash them with your bare hands (or later, your Survival Knife) to harvest one or two titanium each.",
+              "Quartz is your second critical resource. It produces glass, which is required for the Seaglide, the Scanner, your habitat windows, and eventually the Observatory module. Quartz appears as a translucent crystalline cluster, often found embedded in sandstone shelves and the sides of coral formations in the Safe Shallows. Unlike limestone outcrops, quartz deposits can be harvested multiple times before depleting — they respawn slowly over time, making your local area a renewable source.",
+              "Copper ore is the third pillar of early crafting. It is required for wiring kits, which appear in dozens of recipes from the Seaglide to your first habitat power cell. Copper drops from sandstone outcrops — slightly darker and more angular than limestone — and is common throughout the Safe Shallows and the adjacent Kelp Forest. Salt deposits, which look like white rectangular crystals, are the final starting resource you should collect consistently. Salt is used to preserve fish into cured food, which does not spoil and provides a reliable long-term food supply.",
+              "Do not try to collect everything at once. In your first few dives, prioritise titanium and quartz. Once you have fabricated a Scanner and Seaglide, resource collection becomes dramatically faster and you can afford to expand your foraging radius. The Scanner is especially important because scanning fragments of damaged equipment scattered across the seabed is how you unlock more advanced blueprints — including the Seamoth submarine and the Habitat Builder."
+            ]
+          },
+          {
+            "heading": "Crafting Your First Essential Tools",
+            "paragraphs": [
+              "The fabricator in your lifepod is the machine that converts raw resources into tools, equipment, and food. It uses a menu system organised by category: Equipment, Survival, Electronics, and so on. Your first crafting goal is the Survival Knife. It requires one titanium and one blade sample (found by scanning knife fragments or crafted from basic materials), and it dramatically speeds up resource collection by allowing you to harvest resources more efficiently than your bare hands.",
+              "Your second craft should be the Scanner. This is arguably the most important tool in the early game. Equip it and swim over any fragment, creature, or plant you have not seen before and scan it. Scanning fragments of advanced equipment — pieces of Seamoth vehicles, Habitat Builder components, and so on — gradually unlocks the blueprints for those items. Without scanning, you cannot build anything beyond the most basic starting gear. The Scanner also populates your PDA encyclopedia with information about every creature and biome you encounter, which becomes an invaluable reference as you push into deeper and more dangerous areas.",
+              "The third priority is the Seaglide. It is a handheld propulsion device that dramatically increases your swimming speed and, crucially, allows you to ascend from depth far faster than swimming alone. The speed increase is not the only benefit — the Seaglide also has a built-in flashlight, which makes navigating the darker corners of the Safe Shallows and the murky edges of the Kelp Forest significantly less disorienting. Crafting it requires one lubricant, one copper wire, one battery, and one glass, all of which are accessible within the first thirty minutes if you have been collecting limestone and sandstone outcrops consistently.",
+              "The Habitat Builder comes next, but only once you have enough resources to actually build something useful. The Builder requires advanced wiring kits and additional materials, and rushing to craft it before you have a stable food and water supply tends to lead to a scrambled early game where you are perpetually resource-starved. Focus on survival first, then construction. The ocean will wait."
+            ]
+          },
+          {
+            "heading": "Your First Biome Neighbours: Safe Shallows and the Kelp Forest",
+            "paragraphs": [
+              "The Safe Shallows is designed as Subnautica's tutorial zone. The seafloor sits at eight to twelve metres in most areas, the lighting is bright and pleasant, and the creatures — Peepers, Boomerangs, Reginald fish, and the occasional Bladderfish — are passive or mildly curious rather than threatening. The main exception is the Stalker: a grey-green predator with a long snout and sharp teeth that will attack you if you get too close. Stalkers are territorial rather than aggressive — they will not chase you far, but they can deal significant damage in a short encounter. You will learn to recognise them by their distinctive silhouette and their habit of circling metal salvage on the seafloor.",
+              "The Kelp Forest borders the Safe Shallows on most sides and extends to depths of around twenty-five metres. It is visually striking — tall strands of creepvine swaying in the current, filtering the light into shifting green patterns — and it contains resources not found in the shallow zone, including Creepvine Seed Clusters used to make lubricant and various advanced crafting components. The Kelp Forest is also where you will encounter your first genuine threats. Gasopods float through the area and release toxic gas clouds when threatened, and the forest floor occasionally hosts Bone Sharks — aggressive medium-sized predators that will actively chase you for a considerable distance.",
+              "The transition from Safe Shallows to Kelp Forest is the first meaningful difficulty step in Subnautica. Resource density is higher, but so is the risk. Your first few excursions into the Kelp Forest should be brief and purposeful: enter with a specific resource target, collect what you came for, and exit before running low on oxygen. This discipline — entering dangerous biomes with a plan and exiting before you are in trouble — is the habit that will keep you alive as you push into progressively deeper and more dangerous territory.",
+              "Use the Scanner extensively in both starting biomes. Every creature you scan gives you information about its behaviour, diet, and threat level. This information is not just flavour text — it directly informs how you move through the world. Knowing that a Sandshark is actually passive unless cornered changes how you approach the sandy patches at the edges of the Safe Shallows. Scanning is one of the most consistently rewarding activities in the early game, and players who skip it find themselves repeatedly surprised by threats they could have anticipated."
+            ]
+          },
+          {
+            "heading": "Building Your First Habitat: When and Where to Start",
+            "paragraphs": [
+              "Your lifepod has a fabricator, a medical kit dispenser, and a radio — but no storage beyond your personal inventory, and no ability to process food efficiently at scale. The moment you have crafted a Habitat Builder, you should start planning your first base. The question is not whether to build a base in early Subnautica, but where. The location you choose now will determine how convenient or frustrating your resource-gathering operations are for the next several hours of play.",
+              "The ideal early-game base location sits at the edge of the Safe Shallows, adjacent to the Kelp Forest. This positioning gives you easy access to both starting biomes without committing to the higher risks of either. Look for a flat area of seafloor at around fifteen to twenty metres depth — shallow enough that ascent takes only seconds, but deep enough that your habitat will have room to expand downward later without hitting the bottom. Avoid the extreme edges of the Safe Shallows where the seafloor drops away steeply — building on a slope creates structural complications when you add modules.",
+              "Your first base needs only four things to be functional: a single Corridor (X, T, or I shape), an attached Scanner Room for detecting nearby resources, a Fabricator module to avoid swimming back to your lifepod constantly, and a solar panel for power. Solar panels only generate power at or near the surface, so they are ideal for early shallow bases but must eventually be supplemented or replaced with thermal generators as you push deeper. One solar panel generates enough power to run lights and a fabricator at shallow depth during daylight, but you will want at least two to three panels for a base that includes a Scanner Room.",
+              "Do not overbuild in the early game. The temptation is to construct an elaborate habitat before you have the materials to furnish it meaningfully. Prioritise function over aesthetics in your first base: a working fabricator, reliable power, and enough storage to organise your resources. Once you have a Seamoth and access to the Mushroom Forest biome, you will have the materials to expand significantly, and at that point a larger, better-designed base makes more sense than during the first hour when resources are scarce."
+            ]
+          },
+          {
+            "heading": "Common Mistakes New Players Make and How to Avoid Them",
+            "paragraphs": [
+              "The single most common mistake in early Subnautica is ignoring depth warnings. The game tells you that certain depths are unsafe, but it does not initially explain why — and many new players dive anyway, curious about what is below. At depths beyond fifty metres without a reinforced dive suit, you will start taking pressure damage. This damage is gradual at first, then rapidly lethal. If you dive below forty metres and notice your health dropping without any creature interaction, you have gone too deep for your current equipment. Surface immediately.",
+              "Another frequent mistake is treating the Stalker as a major threat and spending significant effort avoiding it. Stalkers are territorial predators, but they are also slow and easy to outswim once you have a Seaglide. The creatures that new players genuinely need to avoid are the ones they have not encountered yet: the Bone Sharks patrolling the deeper Kelp Forest margins, and especially the Cave Crawlers that ambush players who approach cave entrances without looking first. Learn to scan first and approach cautiously rather than diving into every interesting-looking cave immediately.",
+              "New players also consistently undervalue the Scanner Room. Once built, the Scanner Room can detect nearby resources at configurable ranges and display them as markers in your HUD. This effectively turns resource gathering from a random activity into a directed one — instead of swimming in circles hoping to spot a sandstone outcrop, you can see exactly where the nearest five copper nodes are and swim directly to them. The scanner room requires a small but steady power draw to operate, but the time it saves in resource collection pays back that investment many times over.",
+              "Finally, many players make the mistake of ignoring the audio cues that Subnautica uses to signal creature presence. A low, resonant bellow echoing from deep water means a Leviathan-class creature is within detection range. A rapid clicking sound indicates a Crabsnake nest nearby. High-pitched sonar pings from your PDA mean a vehicle-sized creature has been detected on passive sonar. The game's sound design is rich with information — players who learn to read these cues are significantly safer than players who rely only on visual detection."
+            ]
+          },
+          {
+            "heading": "What Comes Next: Preparing for Deeper Exploration",
+            "paragraphs": [
+              "Once you have a functional base, a Seaglide, and a stable food and water supply, you are ready to start pushing the boundaries of your known world. The next major milestone is the Seamoth — a compact one-person submarine that dramatically extends your range and provides protection from moderate-depth pressure damage. Crafting a Seamoth requires a Moonpool base module (for docking and upgrading), a Vehicle Upgrade Console, and the Seamoth blueprint — which is assembled from fragments found primarily in the Aurora wreckage and the Mushroom Forest.",
+              "The story pushes you toward the Aurora at the eastern edge of the map, but do not rush there. The Aurora is guarded by a Reaper Leviathan — the apex predator of shallow water — and entering the wreck requires a Radiation Suit that takes significant resources to fabricate. Visit the Aurora only after you have a Seamoth with at least one depth upgrade, a full set of radiation gear, and a reliable repair tool. Players who rush the Aurora without preparation lose their Seamoth, their supplies, and often their save if they have not established a backup base first.",
+              "The deeper world of Subnautica opens progressively as your equipment improves. The Mushroom Forest, the Blood Kelp Zone, the Lost River, and ultimately the Inactive Lava Zone and the alien facilities hidden beneath the ocean floor — each requires better gear, more preparation, and a deeper understanding of the survival mechanics you have been building since your first dive. Everything you learn in the Safe Shallows and Kelp Forest — oxygen awareness, resource efficiency, creature behaviour reading — applies at every depth. The scale changes, but the skills remain the same."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "biomes-and-creatures",
+        "title": "Subnautica Biome Guide: Every Zone, Its Dangers, and What You Will Discover",
+        "excerpt": "From the sunlit Safe Shallows to the crushing darkness of the Inactive Lava Zone, Subnautica's biomes are among the most detailed environments in gaming. This complete guide covers every major zone, its unique resources, the creatures that inhabit it, and how to explore each one safely.",
+        "category": "Guide",
+        "readTime": "11 min read",
+        "date": "2026-04-30",
+        "icon": "🦈",
+        "sections": [
+          {
+            "heading": "Why Biomes Are Central to the Subnautica Experience",
+            "paragraphs": [
+              "Subnautica does not use traditional game levels or zones gated by levels and keys. Instead, the entire map is one contiguous ocean, and the only thing separating the beginner area from the endgame zones is depth, equipment, and the courage to keep diving. Biomes exist as natural transitions — areas defined by their lighting, flora, fauna, and resource distribution — and learning to read them is the core skill that transforms a new player into a confident explorer.",
+              "Each biome in Subnautica serves a specific narrative and gameplay purpose. The Safe Shallows introduce the survival mechanics gently. The Kelp Forest adds the first real predator threats. The Mushroom Forest provides the materials needed for mid-game crafting. The Blood Kelp Zone and Lost River house story-critical fragments. Every biome you visit is both a resource opportunity and a piece of the planet's broader mystery.",
+              "Understanding which biomes are safe for your current equipment level is the decision that determines whether each diving session feels exhilarating or terrifying. Push one biome ahead of your gear and the encounter with a creature that outmatches you becomes a dramatic story moment. Push three biomes ahead and it becomes a frustrating death loop. This guide lays out every major zone in the order you are likely to encounter it, the resources it offers, and the threats you need to prepare for before visiting."
+            ]
+          },
+          {
+            "heading": "The Safe Shallows: Your Starting Zone",
+            "paragraphs": [
+              "The Safe Shallows is Subnautica's tutorial biome. It surrounds the lifepod starting area and extends in all directions at depths of zero to fifteen metres, with occasional sandy shelves dropping to twenty or twenty-five metres near the zone's edges. The lighting is exceptional — filtered sunlight illuminates the entire zone during the day — and the seafloor is rich with limestone and sandstone outcrops containing the basic resources needed for early crafting.",
+              "Creatures in the Safe Shallows are almost entirely passive. Peepers, Boomerangs, Bladderfish, Reginald, and Holefish swim through the zone without threatening the player. The exception is the Stalker: a predatory fish that will bite you if you get within arm's reach. Stalkers are easy to avoid and retreat quickly after a single bite, so they are more of a nuisance than a genuine threat. More dangerous are the Cave Crawlers that appear near the edges of the zone at night, crawling along rock surfaces and ambushing players who enter caves without looking.",
+              "The Safe Shallows connects to the Kelp Forest at its northern and eastern edges, and to the Grassy Plateaus at the south and west. A critical location within or adjacent to the Safe Shallows is the Underwater Islands biome — a mid-game zone worth noting early because it hosts valuable fragments and is accessible once you have a Seamoth. For the first hour of the game, stay in the Safe Shallows, scan everything, and collect the basic resources thoroughly before venturing further."
+            ]
+          },
+          {
+            "heading": "Kelp Forest and Grassy Plateaus: The Transition Zones",
+            "paragraphs": [
+              "The Kelp Forest begins where the Safe Shallows end and extends to depths of around twenty-five to thirty metres. It is immediately distinguished by the dense towers of Creepvine that filter sunlight into flickering green columns. Creepvine Seed Clusters, harvested by cutting the glowing orange bulbs on the vines, are a critical crafting material used in lubricant production and various mid-game recipes. The Kelp Forest also contains populations of Crashfish — explosive creatures that hide inside Creepvine and launch themselves at the player when disturbed. Swim slowly through the Creepvine and listen for the distinctive rattling sound of a Crashfish nest before approaching.",
+              "The Grassy Plateaus extend the explorable area in a different direction — these are wide, gently sloped areas of sandy seafloor covered in dense vegetation at depths of roughly fifteen to forty metres. The resource density here is lower than the Kelp Forest, but the Grassy Plateaus are safer and often easier to navigate. Gasopods, the floating jellyfish-like creatures that release toxic gas clouds, populate this biome and require careful avoidance — give them a wide berth and never approach from below.",
+              "Both transition zones host populations of Sand Sharks and Bone Sharks near their deeper edges. Sand Sharks are burrowers that hide beneath the seafloor and ambush from below — their presence is signalled by small patches of disturbed sand. Bone Sharks are faster and more aggressive, circling players and striking if you do not maintain distance. Both can be avoided rather than fought in the early game: their attack patterns are predictable, and a Seaglide at full speed outruns both species easily."
+            ]
+          },
+          {
+            "heading": "Mushroom Forest and the Underwater Islands",
+            "paragraphs": [
+              "The Mushroom Forest is one of Subnautica's most visually iconic biomes — a dense cluster of enormous tree mushrooms rising from the seafloor at depths of around one hundred to two hundred metres, their caps glowing with bioluminescence in the dim light. It is a mid-game biome that becomes accessible once you have a Seamoth with at least one Depth Module upgrade. The Mushroom Forest is critical to the game's progression because it contains Magnetite, an ore required for numerous mid-game crafting recipes, and it hosts the fragments needed to build the Seamoth Depth Module itself.",
+              "The Underwater Islands biome sits in a different region of the map but operates on similar depth parameters. This zone features massive rock formations floating in midwater — geological formations that defy conventional physics and add to the alien character of planet 4546B. The Underwater Islands contain large populations of Reginald fish (a calorie-dense food source), mineral deposits including Lithium and Magnetite, and several wrecks worth scanning for advanced blueprints. The zone's main threat is the Bone Shark populations that patrol the area between islands.",
+              "Both biomes represent the point where Subnautica opens up significantly. With a Seamoth and access to these zones, you gain the materials needed to build the Prawn Suit — a heavy industrial exosuit that allows you to enter the deepest and most hostile areas of the planet. If the first hour of Subnautica is about learning to survive in the shallows, the Mushroom Forest represents the beginning of the game's true exploration phase."
+            ]
+          },
+          {
+            "heading": "Blood Kelp Zone and Deep Grand Reef: The Dark Depths",
+            "paragraphs": [
+              "The Blood Kelp Zone is where Subnautica transitions from exploration adventure to survival horror. Located at depths of three hundred to five hundred metres, this biome is characterised by towering blood-red kelp plants that block most ambient light, creating an environment that feels genuinely oppressive. The zone contains resources that are unavailable in shallower areas — particularly Kyanite and certain plant samples used in late-game crafting — but the real reason players venture here is the story fragments hidden in the Sea Treader's Path that runs through the Blood Kelp's eastern edge.",
+              "The Sea Treader Leviathans — enormous, lumbering creatures that follow fixed paths through the Blood Kelp Zone — are not aggressive toward the player, but their sheer size is alarming until you understand their behaviour. They walk along the seafloor in regular patterns and can actually be beneficial: their footfalls crack open sections of seafloor, exposing Shale Outcrops rich in minerals. Following a Sea Treader for several minutes and collecting the exposed resources is one of the more efficient mid-game mining strategies.",
+              "The Deep Grand Reef occupies similar depth ranges on the opposite side of the map and contains alien structures, data box caches, and unique creature populations including the Ghost Leviathan juveniles. Unlike the Sea Treader, Ghost Leviathans are aggressive and very dangerous — they are among the fastest creatures in the game and will chase you over significant distances once aggravated. Approach the Deep Grand Reef in a Cyclops submarine if possible, as its greater hull integrity and ability to hide from sonar detection provides substantially better protection than a Seamoth."
+            ]
+          },
+          {
+            "heading": "Lost River and the Alien Thermal Zones",
+            "paragraphs": [
+              "The Lost River is not a traditional biome in the visual sense — it is a series of enormous underground cave systems at depths of five hundred to one thousand metres, accessible through several entry points scattered across the map. The river itself is filled with a nutrient-rich greenish fluid (not water) that is safe for swimming but disorienting due to its visual opacity. The Lost River contains the most resource-dense deposits in the game, including large nodes of Nickel Ore, Kyanite, and Ruby, all of which are required for the late-game Prawn Suit upgrades and Cyclops engine efficiency modules.",
+              "The primary threats in the Lost River are Ghost Leviathans. Several juvenile Ghost Leviathans patrol the river's main corridors, and unlike the open-ocean version, these cave-dwelling leviathans have no accessible escape route when provoked — the cavern walls limit your movement options significantly. The Ghost Leviathan in the Lost River can be avoided by moving carefully through the cave system without approaching within fifty metres of it, but this requires patience and a clear mental map of the passages.",
+              "Beyond the Lost River lies the Inactive Lava Zone and Active Lava Zone — the deepest accessible areas in Subnautica and the location of the game's most critical late-game objectives. These zones require a fully upgraded Cyclops with heat resistance modifications, a Prawn Suit with drill arms for breaking Kyanite deposits, and a willingness to navigate the presence of a Sea Dragon Leviathan — the largest and most dangerous creature in the ocean. Reaching the Alien Thermal Plant and the Primary Containment Facility at these depths constitutes the game's narrative endgame."
+            ]
+          },
+          {
+            "heading": "Understanding Subnautica's Creatures: Passive, Defensive, and Predatory",
+            "paragraphs": [
+              "Subnautica organises its fauna into behavioural categories that the PDA encyclopedia documents after each scan. Passive creatures — Peepers, Reginald, Bladderfish, the Cuddlefish companion in certain locations — pose no threat and in some cases provide resources or beneficial interactions. Defensive creatures — Stalkers, Bone Sharks, Gasopods — respond to perceived threats but do not actively hunt the player. Predatory creatures — Reaper Leviathans, Ghost Leviathans, Sea Dragon Leviathans — will actively pursue and attack vehicles and the player directly.",
+              "The Reaper Leviathan is the creature most new players encounter first as a genuine mortal threat. It patrols the Crash Zone around the Aurora wreck and the open ocean north of the Safe Shallows at depths of twenty to fifty metres. Reapers use an ambush attack — they disappear from visibility and then grab your vehicle in their mandibles. The only defences against a Reaper are avoidance (by tracking its patrol route and timing your transit carefully) and the Propulsion Cannon (which can interrupt a grab attack). Getting caught unprepared by a Reaper in your Seamoth is often the single most startling moment in any Subnautica playthrough.",
+              "The psychological impact of Subnautica's creature design is intentional. The game creates genuine thalassophobia — fear of deep, open water — through sound design and limited visibility rather than constant creature encounters. You will hear the Reaper's roar long before you see it. You will detect Ghost Leviathan bioluminescence at the edge of your headlamp range before you understand what you are looking at. This design creates exploratory tension that sustains interest across dozens of hours without relying on frequent jump scares."
+            ]
+          },
+          {
+            "heading": "Planning Your Exploration: A Biome Progression Guide",
+            "paragraphs": [
+              "The safest progression order for exploring Subnautica's biomes moves from shallow to deep, from passive to dangerous, and from resource-poor to resource-rich. In your first session, stay in the Safe Shallows and the immediate Kelp Forest. Scan every creature and fragment you find. Collect titanium, quartz, and copper consistently. Craft the Seaglide and Scanner before anything else.",
+              "In your second session, push into the deeper Kelp Forest and the Grassy Plateaus. Begin scanning wreck fragments for the Seamoth blueprint. Build your first habitat module and solar panel. Extend your resource storage so you can carry larger hauls from deeper dives without making constant return trips. By the end of this session, you should have most of the Seamoth blueprint pieces and a clear picture of where the remaining fragments are located.",
+              "In subsequent sessions, build the Seamoth and use it to reach the Mushroom Forest for Magnetite, the Bulb Zone for its unique minerals, and eventually the Floating Island for the surface-based resources that provide mid-game crafting materials. The deeper biomes — Blood Kelp, Lost River, Lava Zones — should be approached only after you have a fully upgraded Cyclops with thermal power cells and a Prawn Suit with depth and drill arm modules. Rushing the late-game areas without adequate preparation is the most common cause of frustration in Subnautica, and patience in the middle game is always rewarded with a more manageable endgame."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "base-building-guide",
+        "title": "How to Build the Perfect Subnautica Base: A Complete Construction and Design Guide",
+        "excerpt": "Your base in Subnautica is far more than a place to sleep — it is your fabrication hub, your oxygen reserve, your food production facility, and your storage system. This guide covers everything from choosing the right location to building a self-sufficient underwater habitat that supports exploration across the entire ocean.",
+        "category": "Guide",
+        "readTime": "10 min read",
+        "date": "2026-04-30",
+        "icon": "🏗️",
+        "sections": [
+          {
+            "heading": "Why Your Base Matters: More Than Just a Home Underwater",
+            "paragraphs": [
+              "In the early hours of Subnautica, your lifepod handles your most basic needs — it has a fabricator and a small supply of emergency materials. But the lifepod is cramped, has no storage beyond your inventory, and is impossible to expand. Once you have crafted a Habitat Builder and collected enough Titanium and Quartz to start construction, relocating your operations to a proper habitat transforms the game fundamentally.",
+              "A well-designed base eliminates the most painful aspects of mid-game Subnautica. Instead of making repeated trips back to your lifepod to offload resources, you have a storage network within swimming distance of your primary foraging zones. Instead of fabricating everything in one location and swimming resources to another, you can place fabricators at every major base module. Instead of managing food and water in the field, you can maintain an aquarium and a plant pot garden that produce a continuous supply of both.",
+              "The base-building system in Subnautica is intentionally flexible — you are not constrained to a fixed template, and experimentation is rewarded. However, certain construction principles apply regardless of what you are building or where. Understanding how hull integrity works, how power generation scales, and which modules genuinely improve your quality of life versus which ones are purely aesthetic makes the difference between a base that functions as a genuine advantage and one that merely looks impressive while draining power and resources.",
+              "This guide covers the decisions in the order you will face them: location selection, initial construction priority, power system design, storage organisation, food production, vehicle integration, and eventually deep-water expansion as your exploration reaches the lower depths of the ocean."
+            ]
+          },
+          {
+            "heading": "Choosing Your Base Location: The Most Important Decision You Will Make",
+            "paragraphs": [
+              "Base location in Subnautica is a long-term commitment. Unlike other survival games where you can easily pack up and move, relocating a Subnautica base means deconstructing every module individually and rebuilding from scratch elsewhere. The decision deserves careful thought before you place your first foundation piece.",
+              "The ideal early-game base location sits at the boundary between two biomes — specifically, between the Safe Shallows and the Kelp Forest. This positioning gives you close access to both starting resource zones without committing to the full depth of either. Look for a flat seafloor patch at depths of fifteen to twenty metres — shallow enough that surfacing takes only seconds, but deep enough to give your base room to expand vertically.",
+              "Avoid building directly on a slope. Subnautica's construction system allows modules to be placed on sloped terrain, but expanding a base on a slope is awkward and the visual result is often disjointed. A flat plateau, sandy shelf, or smooth rock formation is always preferable. If your preferred location is slightly sloped, use the Foundation module — a flat concrete platform that levels the ground beneath it and provides a stable base for corridors and rooms.",
+              "If you find a good location near a Thermal Vent — a natural hot water upwelling from cracks in the seafloor — consider planning your base around it from the start. Thermal plants generate power passively and indefinitely without the day/night dependency of solar panels, and they output enough electricity to run every module in a substantial base. Mid-game players who have to retrofit their bases with thermal power after originally building with solar panels consistently wish they had chosen a thermal location from the beginning."
+            ]
+          },
+          {
+            "heading": "Essential First Modules: What to Build in What Order",
+            "paragraphs": [
+              "Your first base module should be a single Foundation platform. Foundations increase hull integrity — the structural health of your base — which allows you to add more modules without the walls buckling under water pressure. Without a foundation, a base consisting of more than two or three connected modules will begin taking hull breach damage, which floods compartments and forces emergency repairs.",
+              "The second priority is a Multipurpose Room or at least an X-Corridor connecting two I-Corridors. The Multipurpose Room is a large spherical chamber that can hold almost any buildable module in its interior, giving you the most flexibility per module slot. Corridors let you connect and extend the base footprint without consuming internal space on room modules.",
+              "Once you have a basic structure, place a Fabricator inside a room and a Locker bank in at least one corridor. The ability to fabricate without returning to your lifepod is transformative for resource-gathering efficiency. The locker bank solves inventory overflow — you can carry a full inventory from a dive, offload it into organised lockers, and immediately return to the same dive site without the round trip to the lifepod.",
+              "The Scanner Room is the fourth essential module. It requires titanium, glass, and gold to build, and it draws moderate power continuously when active — but the benefit outweighs the cost significantly. Once built and powered, the Scanner Room can detect resources within a configurable radius (ranging from around two hundred metres at the default setting up to five hundred metres with camera drone upgrades). The resource detection is displayed as colour-coded markers in your HUD while you are swimming, which turns resource gathering from a random activity into a directed, efficient operation."
+            ]
+          },
+          {
+            "heading": "Power Systems: From Solar to Thermal to Bioreactor",
+            "paragraphs": [
+              "Power generation is the system most new players underestimate. A base with one solar panel can run lights and a fabricator during the day — but adding a Scanner Room, a Water Filtration Machine, a Nuclear Reactor placeholder, or any additional powered module drains the battery reserve faster than a single solar panel can replenish it. Plan your power generation to comfortably exceed your power consumption at full load before adding more modules.",
+              "Solar Panels are the beginner's power solution. They generate power when light is available — typically during the day cycle — and charge a connected Power Cell Bank for use at night or in dark water. A single solar panel generates around seventy-five power units per in-game day. A basic base with fabricator, locker lights, and scanner room draws around thirty to fifty units during active use, so two solar panels and a power cell bank provides comfortable headroom for an early base at depths of thirty metres or less.",
+              "Thermal Plants are the mid-game upgrade. They draw heat from Thermal Vent upwellings and convert it to electricity continuously — no day/night cycle dependency, no fuel consumption, no maintenance. A single Thermal Plant generates around two hundred and fifty power units over the same period as a solar panel, making it roughly three times more efficient in practical terms. The limitation is placement: Thermal Plants must be built within three metres of an active Thermal Vent, so they require either an existing base near a vent or the construction of a dedicated power station connected to the main base by corridors.",
+              "Bioreactors offer a third option for players who cannot access a Thermal Vent and need more power than solar provides. A Bioreactor burns organic material — plants, fish, table coral — to generate power. The fuel consumption is manageable if you maintain an aquarium and a plant pot garden adjacent to the reactor, creating a closed-loop system where your food production generates excess organic material that goes into the reactor. A single Bioreactor on a diet of creepvine samples produces approximately equivalent power to two solar panels, making it a viable mid-game solution before you gain access to Thermal Vents."
+            ]
+          },
+          {
+            "heading": "Storage Organisation: How to Never Lose Track of Resources Again",
+            "paragraphs": [
+              "Subnautica's inventory system is its most cited frustration among new players, and the frustration is almost entirely caused by poor storage organisation rather than any limitation of the system itself. A well-organised locker network makes resource management nearly effortless; an unorganised one leads to the all-too-common experience of having three hundred units of Titanium in twelve different lockers spread across two bases while simultaneously searching for it.",
+              "The most effective storage approach assigns one locker type to each major resource category. Designate one locker for raw minerals (titanium, quartz, copper, silver, gold), one for electronic components (wiring kits, computer chips, batteries, power cells), one for biological samples and food production materials, one for equipment you are actively using, and one emergency locker for miscellaneous items. Label each locker using the in-game label system — this is a small step that pays enormous dividends when you are searching for a specific crafting component under time pressure.",
+              "Advanced players use the room layout itself as storage organisation. Placing all biology-related lockers in the Alien Containment room, all electronics lockers near the Vehicle Modification Station, and all raw mineral lockers near the Fabricator creates spatial intuition — you know which room holds what you are looking for without reading locker labels every time. This layout approach works particularly well in bases with multiple rooms connected by clearly defined corridor networks.",
+              "One storage tip that new players consistently overlook: the Prawn Suit has its own storage upgrade slots, and the Cyclops submarine has a built-in cargo area. Long expeditions into the deep should use these mobile storage options to bring back large quantities of deep-water minerals without needing multiple trips. Return to base, offload into designated lockers, and head back out. The round-trip time is the primary constraint on resource gathering efficiency in mid and late Subnautica, and maximising each trip's yield through mobile storage and organised home base storage is what makes the difference."
+            ]
+          },
+          {
+            "heading": "Food and Water Production: Building a Self-Sufficient Base",
+            "paragraphs": [
+              "Managing food and water through field gathering works in the early game, but it becomes increasingly tedious as your base grows and your exploration sessions take you further from the surface. Building dedicated food and water production facilities within your base eliminates this constraint entirely and frees up dive time for genuine exploration rather than survival housekeeping.",
+              "The Water Filtration Machine is the most important quality-of-life module you can build. It filters seawater continuously and produces Large Filtered Water — the highest-calorie water item in the game — at a rate of one every seven real-world minutes of operation. A single Water Filtration Machine running continuously produces more water than any single player can drink, effectively removing thirst as a survival concern entirely. The Machine requires power to operate, which is why establishing reliable power generation before building it matters — a Water Filtration Machine drawing power from an underpowered base will drain your battery faster than it fills it.",
+              "Food production can be handled through the Alien Containment aquarium module — a large cylindrical tank that can hold and breed live fish. Populate it with Reginald fish (the most calorie-dense species accessible in the early game), and the aquarium will breed them at a rate sufficient to sustain your food needs indefinitely. Combine the aquarium with a Cookingpot or Fabricator access to process raw fish into Cooked Fish or Cured Fish (which do not spoil), and you have a completely passive food supply that requires no field gathering.",
+              "Plant pots and exterior Grow Beds allow you to cultivate plants from seeds collected throughout the ocean. Lantern Fruits and Marblemelon plants provide both food and water in a single harvest, and they grow quickly enough in exterior grow beds to produce a harvest roughly every ten to fifteen real-world minutes. Combining aquarium fish breeding with exterior plant cultivation gives you more food and water than you can consume, and excess production can be composted into your Bioreactor for power generation — completing the loop."
+            ]
+          },
+          {
+            "heading": "The Moonpool and Vehicle Integration",
+            "paragraphs": [
+              "The Moonpool is the module that transforms your base from a survivalist shelter into a genuine operational headquarters. It is a large docking bay that allows your Seamoth or Prawn Suit to enter directly from below — you drive into the Moonpool from underneath, and the vehicle parks itself automatically. Once docked, the vehicle recharges its power cells from the base's power supply, which means returning from a long dive replenishes both your base's food and water supply and your vehicle's battery simultaneously.",
+              "The Moonpool also enables vehicle upgrades through the Vehicle Modification Station, which can only be built inside a Moonpool module. The Vehicle Modification Station is where you install depth upgrade modules for the Seamoth and Prawn Suit — components that allow you to access progressively deeper biomes without taking hull damage. Prioritise building the Moonpool as soon as you have the materials to construct it, because vehicle upgrades are the primary bottleneck on your exploration range.",
+              "Placing the Moonpool requires a minimum of two Foundation modules for support and clear water access directly below the docking bay. Avoid building the Moonpool in areas with dense kelp or coral immediately below the base, as obstructions can interfere with vehicle entry. A clear approach path of at least fifteen metres directly below the Moonpool ensures reliable docking in every approach angle."
+            ]
+          },
+          {
+            "heading": "Hull Integrity and Deep Water Base Construction",
+            "paragraphs": [
+              "Hull integrity is the structural health metric that determines how many modules your base can support before water pressure begins causing breaches. Every module you add reduces hull integrity, while Foundations, Reinforcements, and certain room configurations restore it. A base with positive hull integrity is structurally sound and requires no maintenance. A base with negative hull integrity takes periodic water pressure damage and will eventually flood rooms unless you add structural support.",
+              "As you push your exploration deeper and build secondary bases in the Lost River or the Lava Zones, hull integrity becomes the binding constraint on base design. Deep water exerts more pressure than shallow water, which means any module placed below three hundred metres requires additional Reinforcement components to maintain structural integrity. Hull Reinforcement pieces can be added to corridors and walls — each one restores four hull integrity units at the cost of one titanium — and should be budgeted into every deep-water base construction plan.",
+              "Secondary bases in deep biomes do not need to replicate the full functionality of your surface headquarters. A deep-water staging post needs only a Fabricator for basic repairs and crafting, a Vehicle Modification Station if you are upgrading depth modules on-site, a Bioreactor running on local organic material for power, a small locker bank for ore storage, and a Moonpool for vehicle docking. This minimal footprint keeps hull integrity manageable without requiring dozens of Reinforcement pieces while still providing everything necessary to extend exploration sessions deep into the lava zones."
+            ]
+          }
         ]
       }
     ]
