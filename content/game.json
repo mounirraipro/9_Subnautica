@@ -3,7 +3,7 @@
   "domain": "subnautica.online",
   "slug": "subnautica",
   "genre": "Adventure",
-  "iframeUrl": "https://html5.gamemonetize.co/giff5xqx84d9mrl24y6uycqkdkpwxsjp/",
+  "iframeUrl": "/game/index.html",
   "seo": {
     "title": "Subnautica – Free Underwater Adventure Game Online",
     "description": "Play Subnautica free in your browser — explore a vast alien ocean, gather resources, and survive. A deep underwater adventure game with no download needed.",
@@ -711,5 +711,7 @@
         ]
       }
     ]
-  }
+  },
+  "embedUrl": "https://html5.gamemonetize.co/giff5xqx84d9mrl24y6uycqkdkpwxsjp/",
+  "embedSource": "GameMonetize - Aquanaut Adventure"
 }
